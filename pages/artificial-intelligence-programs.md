@@ -30,6 +30,16 @@ National Cancer Institute’s Smokefree.gov is working on a pilot to create a qu
 ### Department of Housing and Urban Development
 <a href="https://hud-rental-assistance-bot.herokuapp.com/">HUD Customer Service Bot.</a> The HUD Digital Services Team has built a prototype chat bot using Microsoft's Bot Framework and QnA Maker. We're continuing to make improvements to it and test it with staff inside HUD and eventually citizens as well. This is still very much a prototype to demonstrate some possibilities. The Bot Framework provides the foundation of making the bot work and accessible on the web. The QnA Maker provides NLP capability without having to build intents, utterances, etc. Our chat bot is HUD's first exploration of AI. The purpose of HUD's chat bot is to provide a front-line of help for citizens looking for information about rental assistance, information about HUD programs, and procedures for sending discrimination complaints. We want the chat bot to assist HUD in delivering accurate, easy-to-find information at the medium of the citizen's choice: web, Facebook, SMS, etc. Further down the road, we want to integrate the chat bot with our CRM solution to facilitate case intake and servicing by HUD customer service staff. For more information, visit the <a href="https://github.com/HUD-Digital-Services/customer-service-bot">open source repository</a>. 
 
+### Department of Justice
+The U.S. Department of Justice (DOJ), Office of Justice Programs (OJP), National Institute of
+Justice (NIJ) is seeking applications for research to apply advances in Artificial Intelligence (AI)
+technologies to support law enforcement in preventing, responding to, and investigating gang
+violence, human and drug trafficking, migrant smuggling, opioid trafficking, and/or child
+pornography. This program furthers the Department’s mission by sponsoring research to
+provide objective, independent, evidence-based knowledge and tools to meet the challenges of
+crime and justice, particularly at the state and local levels.
+https://nij.gov/funding/Documents/solicitations/NIJ-2018-14000.pdf
+
 ### Department of State
 Through the Virtual Student Foreign Service (VSFS) program, any federal agency can task students to work on projects that advance the work of government on multiple fronts, including Artificial Intelligence and Blockchain. Projects include helping counter violent extremism, strengthening human rights monitoring, developing virtual programs, engaging in digital communications, mapping, economic and political reporting, data analysis, graphic design, and app building.
 
